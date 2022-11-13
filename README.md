@@ -27,10 +27,10 @@ git clone https://github.com/R1F4T-2-0/R1F4T-M1X
 
 cd R1F4T-M1X
 
-python M1X.py
+Python M1X.python
 
 
-📌
+# 📌
 NOTE: THIS TOOL FOR FREE 
 
 BUT YOU CAN USE THIS TOOL WITH CONDITION ‼❤️‍🔥
