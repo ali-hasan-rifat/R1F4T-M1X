@@ -1,4 +1,4 @@
-# R1F4T-M1X
+# Installing
 
 pkg update -y
 
