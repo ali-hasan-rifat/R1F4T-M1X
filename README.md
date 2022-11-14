@@ -20,7 +20,7 @@ pip2 install bs4
 
 pip2 install futures
 
-rm -rf 2004-2005
+rm -rf R1F4T-M1X
 
 git clone https://github.com/R1F4T-2-0/R1F4T-M1X
 
