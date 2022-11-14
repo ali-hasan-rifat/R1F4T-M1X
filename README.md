@@ -27,7 +27,7 @@ git clone https://github.com/R1F4T-2-0/R1F4T-M1X
 
 cd R1F4T-M1X
 
-Python M1X.python
+python M1X.python
 
 
 # 📌
